@@ -1,4 +1,4 @@
-# TermFrequency Using SpaCy
+# DocumentSummarizer Using SpaCy
 
 Text Mining on an article with Natural Language Processing(NLP) - Automatically summarize the given text using  **SpaCy**  &  **Python**.
 
